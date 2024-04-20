@@ -100,7 +100,7 @@ else if (score >= 50 && score <= 59) {
     console.log("Grade E");
 }
 else {
-    console.log("Beta G tussi chutti kro..😂");
+    console.log("Grade F: Beta G tussi chutti kro..😂");
 }
 //  Q # 12;
 //  Find the maximum of three numbers.
@@ -155,3 +155,4 @@ var number = 10;
 for (var i = 1; i <= 10; i++) {
     console.log("".concat(number, " * ").concat(i, " = ").concat(number * i));
 }
+console.log("****************** End Assignment 4 *************************");
